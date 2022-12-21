@@ -1,3 +1,3 @@
 # portfolio
 ## The website looks like this
-![Image]()
+![Image](./images-folder/portfolio.png)

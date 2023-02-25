@@ -248,7 +248,9 @@ footer ul {
 .footertext{
     font-weight: normal;
 }
-
+.spec-img {
+    width: 402px;
+}
 @media (min-width: 800px) {
   article {
     display: grid;

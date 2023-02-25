@@ -157,7 +157,7 @@ nav a {
 img{
     width:100%;
     min-height: 400px;
-    /* min-width: 600px; */
+    min-width: 600px;
 }
 
 
@@ -248,9 +248,7 @@ footer ul {
 .footertext{
     font-weight: normal;
 }
-.spec-img {
-    width: 402px;
-}
+
 @media (min-width: 800px) {
   article {
     display: grid;
